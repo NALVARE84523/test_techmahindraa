@@ -1,0 +1,159 @@
+{
+  "userLogin": [
+    {
+      "id": 1,
+      "name": "nelson alvarez",
+      "email": "nelson@nelson.com",
+      "password": "abcde12345",
+      "photoURL": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+    },
+    {
+      "id": 2,
+      "name": "Herlyn Carima",
+      "email": "herlyn@herlyn.com",
+      "password": "abcde123456",
+      "photoURL": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+    },
+    {
+      "name": "maria paula",
+      "id": 3,
+      "email": "maria@maria.com",
+      "password": "abcde1234567",
+      "photoURL": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+    },
+    {
+      "name": "ofelia carmen",
+      "id": 4,
+      "email": "ofelia@ofelia.com",
+      "password": "abcde12345678",
+      "photoURL": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+    },
+    {
+      "name": "liliana roa",
+      "id": 5,
+      "email": "liliana@liliana.com",
+      "password": "abcde123456789",
+      "photoURL": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+    }
+  ],
+  "dateVisits": [
+    {
+      "id": 1,
+      "date": "03/01/2022"
+    },
+    {
+      "id": 2,
+      "date": "04/01/2022"
+    },
+    {
+      "id": 3,
+      "date": "05/01/2022"
+    },
+    {
+      "id": 4,
+      "date": "06/01/2022"
+    },
+    {
+      "id": 5,
+      "date": "07/01/2022"
+    },
+    {
+      "id": 6,
+      "date": "08/01/2022"
+    },
+    {
+      "id": 7,
+      "date": "09/01/2022"
+    },
+    {
+      "id": 8,
+      "date": "10/01/2022"
+    },
+    {
+      "id": 9,
+      "date": "11/01/2022"
+    },
+    {
+      "id": 10,
+      "date": "12/01/2022"
+    },
+    {
+      "id": 12,
+      "date": "01/01/2023"
+    }
+  ],
+  "registeredUsers": [
+    {
+      "name": "Grupo A",
+      "type": "column",
+      "fill": "solid",
+      "data": [
+        23,
+        11,
+        22,
+        27,
+        13,
+        22,
+        37,
+        21,
+        44,
+        22,
+        30
+      ]
+    },
+    {
+      "name": "Grupo B",
+      "type": "area",
+      "fill": "gradient",
+      "data": [
+        44,
+        55,
+        41,
+        67,
+        22,
+        43,
+        21,
+        41,
+        56,
+        27,
+        43
+      ]
+    },
+    {
+      "name": "Grupo C",
+      "type": "line",
+      "fill": "solid",
+      "data": [
+        30,
+        25,
+        36,
+        30,
+        45,
+        35,
+        64,
+        52,
+        59,
+        36,
+        39
+      ]
+    }
+  ],
+  "currentVisits": [
+    {
+      "label": "America",
+      "value": 4344
+    },
+    {
+      "label": "Asia",
+      "value": 5435
+    },
+    {
+      "label": "Europa",
+      "value": 1443
+    },
+    {
+      "label": "Africa",
+      "value": 4443
+    }
+  ]
+}
